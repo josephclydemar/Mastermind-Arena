@@ -5,8 +5,8 @@ Players from around the world compete in strategic battles of wits, vying for do
 #
 
 ### Technology Stack
-1. `TypeScript`
-2. `Node.js`
-3. `React.js`
-4. `React-Native`
+1. `Flask`
+3. `React.js` + `TypeScript`
+4. `React-Native` + `TypeScript`
 5. `MongoDB`
+6. `PostgreSQL`
