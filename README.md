@@ -5,8 +5,26 @@ Players from around the world compete in strategic battles of wits, vying for do
 #
 
 ### Technology Stack
-1. `Flask`
+1. `Express.js`
 3. `React.js` + `TypeScript`
 4. `React-Native` + `TypeScript`
 5. `MongoDB`
 6. `PostgreSQL`
+
+#
+
+### Features
+**1st Month:**   
+1. Chess Board User Interface - `Clyde`
+2. Chess Pieces Moves - `Clyde`
+3. Chess Rules - `Clyde`
+4. User Profile - `Kyla`
+5. User Creation & Authentication - `Kyla`
+
+
+**2nd Month:**   
+1.  
+2.  
+3.  
+4.  
+5.  
