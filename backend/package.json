@@ -4,6 +4,12 @@
   "main": "server.js",
   "author": "Clyde Mar",
   "license": "MIT",
+  "scripts": {
+    "start": "node ./dist/server.js",
+    "dev": "nodemon",
+    "format": "onchange \"**/*\" -- npx prettier --write .",
+    "build": ""
+  },
   "dependencies": {
     "bcrypt": "^5.1.1",
     "date-fns": "^3.6.0",
