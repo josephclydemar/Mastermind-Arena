@@ -6,9 +6,9 @@
   "license": "MIT",
   "scripts": {
     "start": "node ./dist/server.js",
-    "dev": "nodemon",
+    "dev": "nodemon ./dist/server.js",
     "format": "onchange \"**/*\" -- npx prettier --write .",
-    "build": ""
+    "build": "tsc -w"
   },
   "dependencies": {
     "bcrypt": "^5.1.1",
